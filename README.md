@@ -37,7 +37,7 @@ Final Project of Programming for Data Science - 21KHDL1.
  ├─ 📜.gitignore
  ├─ 📜Notebook.ipynb
  ├─ 📦Data
- │ 	 └─📜LifeExpectancyData.csv
+ │ └─📜LifeExpectancyData.csv
  └─ 📜README.md
 ```
 
