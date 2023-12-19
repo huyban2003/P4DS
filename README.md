@@ -28,7 +28,7 @@ Final Project of Programming for Data Science - 21KHDL1.
 
 ## Project Plan
 
-- ...
+- https://docs.google.com/document/d/1-DmU7-sRuqkwM8OxN_qgs3zILV9BRisZw_LR21Io6Xw
 
 ## Structure
 
@@ -37,7 +37,7 @@ Final Project of Programming for Data Science - 21KHDL1.
  ├─ 📜.gitignore
  ├─ 📜Notebook.ipynb
  ├─ 📦Data
- │ └─📜LifeExpectancyData.csv
+ │   └─📜LifeExpectancyData.csv
  └─ 📜README.md
 ```
 
