@@ -1,4 +1,4 @@
-# P4DS
+# P4DS-FinalProject
 
 ## Table of Contents
 
@@ -33,7 +33,7 @@ Final Project of Programming for Data Science - 21KHDL1.
 ## Structure
 
 ```
-📦P4DS
+📦P4DS-FinalProject
  ├─ 📜.gitignore
  ├─ 📜Notebook.ipynb
  ├─ 📦Data
