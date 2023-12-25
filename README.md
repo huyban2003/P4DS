@@ -3,7 +3,6 @@
 ## Table of Contents
 
  - [Info](#info)
- - [Conetxt](#context)
  - [Introduction](#introduction)
  - [Project Plan](#project-plan)
  - [Structure](#structure)
@@ -16,13 +15,11 @@
 | Tran Huy Ban     | 21127012   |Programming for Data Science - 21KHDL1|
 | Nguyen Minh Quan | 21127143   |Programming for Data Science - 21KHDL1|
 
-## Context
-
-Final Project of Programming for Data Science - 21KHDL1.
-
 ## Introduction
 
--
+- This is the Final Project of class Programming for Data Science - 21KHDL1 (2023).
+
+- Our project is about Life Expectancy: Exploring the demographic factors influencing longevity, accompanied by the economic and health structural issues of each country over the years.
 
 - Data for the project is taken from [kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who), the data is completely free to access.
 
@@ -37,7 +34,8 @@ Final Project of Programming for Data Science - 21KHDL1.
  ├─ 📜.gitignore
  ├─ 📜Notebook.ipynb
  ├─ 📦Data
- │   └─📜LifeExpectancyData.csv
+ │   ├─📜LifeExpectancyData.csv
+ │   └─📜LifeExpectancyDataCleaned.csv
  └─ 📜README.md
 ```
 
@@ -58,4 +56,3 @@ Final Project of Programming for Data Science - 21KHDL1.
 ### Method 2:
 
  - Directly open file Notebook.ipynb in github to view the project contents.
-
