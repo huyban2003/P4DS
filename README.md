@@ -25,7 +25,7 @@
 
 ## Project Plan
 
-[Google Docs](https://docs.google.com/document/d/1-DmU7-sRuqkwM8OxN_qgs3zILV9BRisZw_LR21Io6Xw)
+[Google Docs - Plan Document](https://docs.google.com/document/d/1-DmU7-sRuqkwM8OxN_qgs3zILV9BRisZw_LR21Io6Xw)
 
 ## Structure
 
@@ -41,8 +41,6 @@
 
 ## Usage
 
-### Method 1:
-
 1. Clone repository to your device
 
 ```
@@ -52,7 +50,3 @@
 2. Open Jupyter Notebook (Anaconda/Miniconda/...)
 
 3. Open file Notebook.ipynb in the folder
-
-### Method 2:
-
- - Directly open file Notebook.ipynb in github to view the project contents.
